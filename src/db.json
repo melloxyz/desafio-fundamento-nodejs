@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "4e9d6d7a-bb93-4f83-b7f5-8b9c8ca6375e",
+      "title": "Fazer o Backup do Bando de Dados",
+      "description": "Precimosamos fazer o bkp do db ate o final desta semana!",
+      "completed_at": "14/08/2025",
+      "created_at": "14/8/2025",
+      "updated_at": "14/08/2025"
+    },
+    {
+      "id": "9c8c8118-8b28-411f-9c76-241fce5a9cf6",
+      "title": "Tarefa exemplo",
+      "description": "Descrição exemplo",
+      "completed_at": null,
+      "created_at": "14/8/2025",
+      "updated_at": "14/8/2025"
+    },
+    {
+      "id": "3f84f9ea-7006-4e5c-b8bf-55d928836f4a",
+      "title": "Tarefa exemplo",
+      "description": "Descrição exemplo",
+      "completed_at": null,
+      "created_at": "14/8/2025",
+      "updated_at": "14/8/2025"
+    },
+    {
+      "id": "d8310a1e-08ca-40b4-8c94-5da37c60dd2d",
+      "title": "Tarefa exemplo",
+      "description": "Descrição exemplo",
+      "completed_at": null,
+      "created_at": "14/8/2025",
+      "updated_at": "14/8/2025"
+    },
+    {
+      "id": "014352e9-8195-4d15-a599-0ae43581adc1",
+      "title": "Tarefa exemplo",
+      "description": "Descrição exemplo",
+      "completed_at": null,
+      "created_at": "14/8/2025",
+      "updated_at": "14/8/2025"
+    }
+  ]
+}
