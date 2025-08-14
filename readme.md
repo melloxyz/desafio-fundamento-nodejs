@@ -46,14 +46,6 @@ Este repositório contém uma pequena API de tarefas implementada em Node.js pur
 - Streams e integração:
   - Script que consome API via `fetch` e escreve CSV (manipulação de strings, escaping para CSV).
 
-## Possíveis melhorias
-
-- Tratar melhor datas (usar ISO 8601 internamente e formatar na camada de apresentação).
-- Adicionar testes unitários e de integração.
-- Melhorar tratamento de erros e mensagens consistentes.
-- Implementar filtros/paginação no `GET /tasks`.
-- Usar uma biblioteca para manipulação de CSV (ex.: `csv-stringify`/`csv-parse`) se necessário.
-
 ## Como testar
 
 1. Inicie o servidor:
